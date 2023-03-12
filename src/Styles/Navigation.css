@@ -1,0 +1,17 @@
+
+.nav-link{
+    color: black;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+.nav-link:hover{
+    color: rebeccapurple;
+}
+.container-fluid{
+   max-width: 100%;
+}
+.toggle{
+    background-color: rgba(211, 207, 207, 0.93);
+}
