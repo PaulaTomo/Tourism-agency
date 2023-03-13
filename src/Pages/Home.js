@@ -1,6 +1,7 @@
 import Title from "./Components/Title";
 import "../Styles/home.css";
 import Button from "react-bootstrap/Button";
+import {Link} from "react-router-dom";
 
 
 function Home(){
@@ -10,7 +11,9 @@ function Home(){
     <div className="container-home-page">
     <Title title={"Scegli la tua destinazione perfetta!"}/>
         <p>Pianifica il tuo viaggio con noi!</p>
-   <Button href="/destination" type="submit" variant="primary">Esplora offerte</Button>
+        <Link to="/destination">
+   <Button variant="primary">Esplora offerte</Button>
+        </Link>
 </div>
 </div>
     )
