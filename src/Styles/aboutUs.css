@@ -1,0 +1,26 @@
+.about-us{
+    color: wheat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+
+}
+.about-us video{
+    max-width: 100%;
+    height: auto;
+    margin: 0;
+    padding-right: 0;
+
+}
+.about-us h2{
+    margin-bottom: 10px;
+    margin-top: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+.about-us p {
+    margin-top: 25px;
+    font-size: 15px;
+}

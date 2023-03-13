@@ -8,9 +8,9 @@ import Logo from "./../Images/Logo.png"
 const Layout = () => {
     return (
         <>
-            <Navbar className="nav" collapseOnSelect expand="lg" bg="light" variant="dark" >
+            <Navbar className="nav" collapseOnSelect expand="lg" variant="dark" >
                 <Container className="container-fluid">
-                    <Navbar.Brand href="#home">
+                    <Navbar.Brand href="/">
                       <img src={Logo} width="50" height="50"/>
                     </Navbar.Brand>
                     <Navbar.Toggle className="toggle" aria-controls="responsive-navbar-nav"  />

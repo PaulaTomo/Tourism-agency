@@ -45,7 +45,9 @@
     .container-home-page .title{
         font-size: 18px;
     }
-
+    .container-home-page{
+        background-image: url("../Images/background1.jpg");
+    }
 }
 @media only screen and (max-width: 340px) {
     .container-home-page .title{
@@ -65,5 +67,6 @@
     left: 50%;
     transform: translate(-50%, -50%);
     z-index: 2;
-
+    background-color: #2b1d6a;
+    border: none;
 }

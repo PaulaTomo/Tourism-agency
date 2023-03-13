@@ -1,18 +1,25 @@
+.col{
+    padding-right: 0;
+
+}
 .row {
     margin-right: 0;
 }
 .card{
     margin-bottom:10px;
-
+    background-color: wheat;
 
 }
 .price{
     position: relative;
     text-align: right;
+    font-weight: bold;
+    color: #3d3b3b;
 
 }
 .destination h1{
    text-align: center;
     margin-top: 50px;
     margin-bottom: 50px;
+    color: wheat;
 }

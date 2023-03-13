@@ -1,0 +1,14 @@
+.city-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+
+}
+.city-page img{
+    max-width: 50%;
+    height: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
