@@ -11,7 +11,7 @@ const Layout = () => {
             <Navbar className="nav" collapseOnSelect expand="lg" variant="dark" >
                 <Container className="container-fluid">
                     <Navbar.Brand href="/">
-                      <img src={Logo} width="50" height="50"/>
+                      <img src={Logo} width="50" height="50" alt="Logo"/>
                     </Navbar.Brand>
                     <Navbar.Toggle className="toggle" aria-controls="responsive-navbar-nav"  />
                     <Navbar.Collapse id="responsive-navbar-nav">

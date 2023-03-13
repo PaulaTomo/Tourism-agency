@@ -1,6 +1,5 @@
 
 import { Form } from 'react-bootstrap';
-
 function PersonInput() {
     return (
         <>

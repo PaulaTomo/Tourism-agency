@@ -1,6 +1,5 @@
 import Title from "./Components/Title";
 import "../Styles/home.css";
-// import Banner from "../Images/Banner.png"
 import Button from "react-bootstrap/Button";
 
 

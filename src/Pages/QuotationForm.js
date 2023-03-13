@@ -1,6 +1,5 @@
 import CityInput from "./Components/CityInput";
 import DateInput from "./Components/DateInput";
-import Title from "./Components/Title";
 import React from "react";
 import PersonInput from "./Components/PersonInput";
 import {Button} from "react-bootstrap";
