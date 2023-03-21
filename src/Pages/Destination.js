@@ -7,7 +7,7 @@ function Destination(){
 
     return(
         <div className="destination">
-        <Title title={<h1>Visita le citta piu belli del mondo</h1>}/>
+        <Title title={<h1>Visita le citta piu belle del mondo</h1>}/>
         <CardComponent/>
         </div>
     )
