@@ -9,7 +9,7 @@ const CardComponent = () => {
         {
             id: 1,
             title: "Parigi",
-            image: "https://www.riotgames.com/darkroom/1440/9f32e6c49de18ffa53a7ed6ed0910290:2d29085d3c0a20036cc5477cc3c74cc1/paris-adobestock-327345878.png",
+            image: "https://www.consigliamidove.it/wp-content/uploads/2018/04/parigi-la-torre-eiffel.jpg",
             description: "La capitale francese affascina con la sua eleganza senza tempo.",
             price:"280 Euro",
 
